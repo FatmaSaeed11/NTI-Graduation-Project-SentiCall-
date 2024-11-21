@@ -1,6 +1,6 @@
 # SentiCall
 
-This project provides an interactive web application that allows users to analyze Arabic text sentiments, interact with a customer dataset chatbot, and visualize sentiment and customer feedback data using advanced machine learning models and visualization tools.
+This project provides an interactive web application that allows users to analyze Arabic phone calls  sentiments, interact with a customer dataset chatbot, and visualize sentiment and customer feedback data using advanced machine learning models and visualization tools.
 
 ---
 
